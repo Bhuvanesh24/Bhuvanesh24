@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hey there! I'm <Your Name> 👋</h1>
 
-<!--
-**Bhuvanesh24/Bhuvanesh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Self-taught+Programmer;Open+Source+Enthusiast;Freak+Coder+⚡;Building+Cool+Things+%F0%9F%9A%80&center=true&width=500&height=45" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 I write code like it’s poetry (chaotic and genius)
+- 🛠️ Currently hacking on: `ML`, `Go`, `AI projects`
+- 🧪 Working on secret things in the lab (aka my localhost)
+- 🎯 2025 Goals: More OSS. Less sleep. Bigger brain.
+
+---
+
+### ⚙️ Tools & Tech
+
+```yaml
+Languages: [Python, JavaScript, Rust, TypeScript, C++]
+Frontend: [React, TailwindCSS, Next.js]
+Backend: [Node.js, Express, Supabase, Firebase]
+DevOps: [Docker, GitHub Actions, Netlify]
