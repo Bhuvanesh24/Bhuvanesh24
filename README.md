@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Bhuvaneshwaran K 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Self-taught+Programmer;Open+Source+Enthusiast;Freak+Coder+⚡;Building+Cool+Things+%F0%9F%9A%80&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Self-taught+Programmer;AIML+Enthusiast;Freak+Coder+⚡;Building+Cool+Things+%F0%9F%9A%80&center=true&width=500&height=45" />
 </p>
 
 ---
