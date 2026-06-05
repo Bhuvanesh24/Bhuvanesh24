@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/bhuvaneshwaran-k-033742255"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bhuvaneshwaran813@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Bhuvanesh24/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Bhuvanesh-2024/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
