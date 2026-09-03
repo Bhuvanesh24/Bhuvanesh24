@@ -36,10 +36,10 @@ Testing:     [Playwright, Postman, API Documentation]
 
 ```
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh24&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-theta-pearl-37.vercel.app/api?username=Bhuvanesh24&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com/?user=Bhuvanesh24&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh24&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-theta-pearl-37.vercel.app/api/top-langs/?username=Bhuvanesh24&layout=compact&theme=tokyonight" />
 </p>
