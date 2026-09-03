@@ -33,35 +33,3 @@ Databases:   [PostgreSQL, MongoDB, Redis, Neo4j, MySQL, Supabase, Firebase]
 AI & ML:     [LLM Orchestration, Multi-Agent Systems, RAG, Azure OpenAI, Anthropic API, OpenAI API]
 DevOps:      [Docker, AWS, GCP, GitLab CI/CD, GitHub Actions, Linux]
 Testing:     [Playwright, Postman, API Documentation]
-```
-
----
-
-### Highlights
-
-- 🏆 **SIH 2024 Finalist** — Top 5 among 500+ teams, evaluated by Ministry of Jal Shakti
-- 🌍 **Vultr Hackathon 2024** — Top 10 globally among 10,000+ teams
-- 🎨 **Adobe Hackathon 2024** — Semi-Finalist, top 50+ teams
-- ⚡ **LeetCode** — Rating 1797, Peak Rank #1188
-
----
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **ESA** | Multi-agent decision intelligence platform — Enterprise Search, Deep Research, Data Analyst, Strategy agents | Python, Node.js, Azure OpenAI, React |
-| **HRSC** | Hierarchical RAG system — 90% latency reduction via dual-path Redis + Neo4j retrieval | Python, Redis, Neo4j, PostgreSQL |
-| **Whispr** | Meeting transcription platform with Chrome Extension and distributed microservices | Go, Node.js, React, Docker, AWS |
-| **Reservoir Management** | ML prediction system for reservoir management — SIH 2024 Top 5 | Django, FastAPI, PostgreSQL, GCP |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhuvanesh24&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanesh24&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bhuvanesh24&layout=compact&theme=tokyonight" />
-</p>
